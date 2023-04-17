@@ -1,0 +1,7 @@
+#head img{
+    height: 80px;
+}
+.collapse{
+    display: flex;
+    justify-content: start;
+}
